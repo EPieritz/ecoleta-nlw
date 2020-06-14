@@ -1,5 +1,5 @@
-#Ecoleta
-###NextLevel Week
+**Ecoleta - NextLevel Week**
+
 Nesta primeira edição foi desenvolvido o projeto Ecoleta, que serve para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
 
 O projeto foi ministrado pelo Diego Schell Fernandes, Mayk Brito e o pessoal da Rocketseat.

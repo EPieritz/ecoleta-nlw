@@ -1,10 +1,10 @@
 **Ecoleta - NextLevel Week**
 
-Nesta primeira edição foi desenvolvido o projeto Ecoleta, que serve para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
+In this first edition, the Ecoleta project was developed, which serves to manage the garbage collection process in cities. With it, you can help people find collection points more efficiently.
 
-O projeto foi ministrado pelo Diego Schell Fernandes, Mayk Brito e o pessoal da Rocketseat.
+The project was taught by Diego Schell Fernandes, Mayk Brito and the Rocketseat staff.
 
-Foram abordados tecnologias como JavaScript, CSS3, HTML5, Node.js, Express, NunJucks, SQLite e também APIS do IBGE para consumo dos dados dos Estados e Cidades do Brasil.
+Technologies such as JavaScript, CSS3, HTML5, Node.js, Express, NunJucks, SQLite and also IBGE's APIS were used to consume data from the States and Cities of Brazil.
 
 
 

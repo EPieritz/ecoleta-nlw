@@ -1,4 +1,4 @@
-# :fast_forward: :recycle: Ecoleta :recycle: :rewind:
+<h1 align = "center"> :fast_forward: :recycle: Ecoleta :recycle: :rewind: </h1>
 
 ## 🖥 Preview
 <p align = "center">
